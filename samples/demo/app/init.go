@@ -1,7 +1,7 @@
 package app
 
 import (
-    "github.com/cbonello/revel-csrf"
+    "github.com/ytn86/revel-csrf"
     "github.com/revel/revel"
 )
 
